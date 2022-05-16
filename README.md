@@ -1,5 +1,5 @@
 # Air Raid Map | Readme | English
-![Thumbnail]()
+![Thumbnail](https://raw.githubusercontent.com/Puzzak/Air-Raid-Map/893ad3d24377e7925cd8963773380de2f8046217/map-project.png)
  - Simlest air raid map, built with Google Charts API and API єМапа. Contains discard time for every district.
  - You can try this out [HERE](https://puzzak.page/map)
  - Consider [donating](https://puzzak.diaka.ua/frd) if you've found this helpful
